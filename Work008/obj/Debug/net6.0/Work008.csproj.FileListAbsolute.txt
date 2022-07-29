@@ -1,0 +1,15 @@
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\bin\Debug\net6.0\Work008.exe
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\bin\Debug\net6.0\Work008.deps.json
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\bin\Debug\net6.0\Work008.runtimeconfig.json
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\bin\Debug\net6.0\Work008.dll
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\bin\Debug\net6.0\ref\Work008.dll
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\bin\Debug\net6.0\Work008.pdb
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\obj\Debug\net6.0\Work008.csproj.AssemblyReference.cache
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\obj\Debug\net6.0\Work008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\obj\Debug\net6.0\Work008.AssemblyInfoInputs.cache
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\obj\Debug\net6.0\Work008.AssemblyInfo.cs
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\obj\Debug\net6.0\Work008.csproj.CoreCompileInputs.cache
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\obj\Debug\net6.0\Work008.dll
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\obj\Debug\net6.0\ref\Work008.dll
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\obj\Debug\net6.0\Work008.pdb
+C:\Users\Unreal\Desktop\C#\HomeWork\Work008\obj\Debug\net6.0\Work008.genruntimeconfig.cache
